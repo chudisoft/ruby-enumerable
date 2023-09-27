@@ -1,5 +1,5 @@
-require_relative 'list'
 require_relative 'enumerable'
+require_relative 'list'
 
 list = MyList.new([1, 2, 3, 4, 5])
 
